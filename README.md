@@ -1,3 +1,4 @@
+You can toggle Between Main components by commenting and uncommenting "MainComponent" and "MainComponentCoonect()" respectively in App.tsx.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
